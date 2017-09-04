@@ -1,0 +1,7 @@
+#Mon Sep 04 16:12:22 PDT 2017
+base.0=C\:\\Users\\FoundryUser\\Documents\\GitHub\\CardboardPassthrough_Cardboard Version\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_317c8b3f57b476a49de3c51d7849794efcf6a6bf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\FoundryUser\\Documents\\GitHub\\CardboardPassthrough_Cardboard Version\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_849eded0d1096ec9a761b098c0769372f891bd2f\\classes.dex
+base.1=C\:\\Users\\FoundryUser\\Documents\\GitHub\\CardboardPassthrough_Cardboard Version\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_849eded0d1096ec9a761b098c0769372f891bd2f
+file.0=C\:\\Users\\FoundryUser\\Documents\\GitHub\\CardboardPassthrough_Cardboard Version\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_317c8b3f57b476a49de3c51d7849794efcf6a6bf\\classes.dex
